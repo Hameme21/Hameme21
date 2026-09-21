@@ -22,7 +22,6 @@ Computer Science and Engineering student at United International University, Dha
 | [AuctionCMD](https://github.com/Hameme21/Auction) | Real-time live auction & drafting web app with Socket.IO bidding | Node.js, Socket.IO, HTML/CSS/JS |
 | [UIU CSE Question Bank](https://github.com/Hameme21/UIU_Question_Bank) | Platform for past exam papers, solutions & notes | Node.js, Firebase, Cloudinary |
 | [UIU Toolkits](https://uiu-toolkits.vercel.app) | Student resource toolkit for UIU CSE | JavaScript, Vercel |
-| [Lumina](https://github.com/Hameme21) | Discord-style community discovery & chat prototype | HTML/CSS/JS |
 
 ## 📫 Connect
 
