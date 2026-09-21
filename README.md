@@ -45,8 +45,6 @@
 
 <br><br>
 
-<img src="https://ghchart.rshah.org/2dd4bf/Hameme21" alt="Hameme21's Github chart" />
-
 </div>
 
 <br>
