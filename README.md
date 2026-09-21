@@ -37,6 +37,12 @@
 <!-- Animated Contribution Snake & Graph -->
 <h3>🐍 Contribution Activity</h3>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hameme21/Hameme21/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hameme21/Hameme21/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/Hameme21/Hameme21/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
 <br><br>
 
 <img src="https://ghchart.rshah.org/2dd4bf/Hameme21" alt="Hameme21's Github chart" />
@@ -68,6 +74,3 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hameme21)
 
 </div>
-
-
-insert it
