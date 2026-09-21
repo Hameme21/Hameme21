@@ -1,4 +1,4 @@
-<div align="center">
+**<div align="center">
 
 # Hi, I'm Asir Hamim 👋
 Computer Science and Engineering student at United International University, Dhaka | Full-Stack Web Developer
@@ -30,3 +30,4 @@ Computer Science and Engineering student at United International University, Dha
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamimasir5@gmail.com)
 
 </div>
+**
