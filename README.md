@@ -7,7 +7,7 @@ Computer Science and Engineering student at United International University, Dha
 
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hameme21&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hameme21&show_icons=true&theme=dark&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hameme21&theme=dark&hide_border=true)
 
