@@ -22,12 +22,11 @@ Computer Science and Engineering student at United International University, Dha
 | [AuctionCMD](https://github.com/Hameme21/Auction) | Real-time live auction & drafting web app with Socket.IO bidding | Node.js, Socket.IO, HTML/CSS/JS |
 | [UIU CSE Question Bank](https://github.com/Hameme21/UIU_Question_Bank) | Platform for past exam papers, solutions & notes | Node.js, Firebase, Cloudinary |
 | [UIU Toolkits](https://uiu-toolkits.vercel.app) | Student resource toolkit for UIU CSE | JavaScript, Vercel |
-| [Lumina](https://github.com/Hameme21) | Discord-style community discovery & chat prototype | HTML/CSS/JS |
 
 ## 📫 Connect
 
 <!-- Replace with your real handles, or delete lines for accounts you don't have -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-HANDLE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](([https://www.linkedin.com/in/asir-hamim-385980384/])
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamimasir5@gmail.com)
 
 </div>
