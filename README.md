@@ -7,7 +7,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2DD4BF&center=true&vCenter=true&width=750&lines=CSE+Student+at+United+International+University+%F0%9F%8E%93;Full-Stack+Web+Developer+%F0%9F%92%BB;Building+Real-Time+Apps+%26+Platforms+%E2%9A%A1;Turning+ideas+into+scalable+software+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
-<br><br>
+<br>
+
+<p align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=Hameme21&color=blue&style=flat" alt="Profile views" />
+</p>
+
+<br>
 
 <!-- Tech Stack Badges -->
 <h3>🛠️ Tech Stack & Tools</h3>
@@ -19,11 +26,6 @@
 </p>
 
 <br>
-
-<p align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=Hameme21&color=blue&style=flat" alt="Profile views" />
-</p>
 
 <!-- Live Stats Cards (Using Verified Active Endpoints) -->
 <h3>⚡ GitHub Activity & Stats</h3>
