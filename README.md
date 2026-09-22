@@ -14,8 +14,6 @@
   <img src="https://komarev.com/ghpvc/?username=Hameme21&color=blue&style=flat" alt="Profile views" />
 </p>
 
-<br>
-
 <!-- Tech Stack Badges -->
 <h3>🛠️ Tech Stack & Tools</h3>
 
