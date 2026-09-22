@@ -20,6 +20,11 @@
 
 <br>
 
+<p align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=Hameme21&color=blue&style=flat" alt="Profile views" />
+</p>
+
 <!-- Live Stats Cards (Using Verified Active Endpoints) -->
 <h3>⚡ GitHub Activity & Stats</h3>
 
@@ -34,10 +39,6 @@
 
 <br>
 
-<p align="center">
-
-  <img src="https://komarev.com/ghpvc/?username=Hameme21&color=blue&style=flat" alt="Profile views" />
-</p>
 
 <!-- Animated Contribution Snake & Graph -->
 <h3>🐍 Contribution Activity</h3>
